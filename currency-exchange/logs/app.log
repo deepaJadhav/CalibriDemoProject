@@ -1,0 +1,287 @@
+2019-10-19 00:02:36,201 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Starting CurrencyExchangeApplicationTests on LAPTOP-AJTV0JIH with PID 212 (started by jadha in C:\deepa\ProjectDemo\Calibri\currency-exchange)
+2019-10-19 00:02:36,212 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] No active profile set, falling back to default profiles: default
+2019-10-19 00:02:39,641 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Started CurrencyExchangeApplicationTests in 3.88 seconds (JVM running for 6.12)
+2019-10-19 00:06:02,063 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Starting CurrencyExchangeApplicationTests on LAPTOP-AJTV0JIH with PID 4276 (started by jadha in C:\deepa\ProjectDemo\Calibri\currency-exchange)
+2019-10-19 00:06:02,067 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] No active profile set, falling back to default profiles: default
+2019-10-19 00:06:04,878 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Started CurrencyExchangeApplicationTests in 3.086 seconds (JVM running for 4.413)
+2019-10-19 01:08:02,066 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Starting CurrencyExchangeApplicationTests on LAPTOP-AJTV0JIH with PID 8352 (started by jadha in C:\deepa\ProjectDemo\Calibri\currency-exchange)
+2019-10-19 01:08:02,072 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] No active profile set, falling back to default profiles: default
+2019-10-19 01:08:06,491 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Started CurrencyExchangeApplicationTests in 4.963 seconds (JVM running for 8.018)
+2019-10-19 01:11:11,369 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Starting CurrencyExchangeApplicationTests on LAPTOP-AJTV0JIH with PID 4332 (started by jadha in C:\deepa\ProjectDemo\Calibri\currency-exchange)
+2019-10-19 01:11:11,374 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] No active profile set, falling back to default profiles: default
+2019-10-19 01:11:15,306 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Started CurrencyExchangeApplicationTests in 4.385 seconds (JVM running for 7.377)
+2019-10-19 01:11:53,553 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Starting CurrencyExchangeApplicationTests on LAPTOP-AJTV0JIH with PID 16096 (started by jadha in C:\deepa\ProjectDemo\Calibri\currency-exchange)
+2019-10-19 01:11:53,557 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] No active profile set, falling back to default profiles: default
+2019-10-19 01:11:57,085 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Started CurrencyExchangeApplicationTests in 3.886 seconds (JVM running for 6.235)
+2019-10-19 01:13:46,104 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Starting CurrencyExchangeApplicationTests on LAPTOP-AJTV0JIH with PID 520 (started by jadha in C:\deepa\ProjectDemo\Calibri\currency-exchange)
+2019-10-19 01:13:46,108 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] No active profile set, falling back to default profiles: default
+2019-10-19 01:13:50,136 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Started CurrencyExchangeApplicationTests in 4.46 seconds (JVM running for 6.894)
+2019-10-19 01:14:38,315 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Starting CurrencyExchangeApplicationTests on LAPTOP-AJTV0JIH with PID 11840 (started by jadha in C:\deepa\ProjectDemo\Calibri\currency-exchange)
+2019-10-19 01:14:38,319 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] No active profile set, falling back to default profiles: default
+2019-10-19 01:14:42,083 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Started CurrencyExchangeApplicationTests in 4.117 seconds (JVM running for 6.794)
+2019-10-19 01:17:38,901 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Starting CurrencyExchangeApplicationTests on LAPTOP-AJTV0JIH with PID 10588 (started by jadha in C:\deepa\ProjectDemo\Calibri\currency-exchange)
+2019-10-19 01:17:38,904 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] No active profile set, falling back to default profiles: default
+2019-10-19 01:17:42,292 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Started CurrencyExchangeApplicationTests in 3.678 seconds (JVM running for 5.073)
+2019-10-19 01:18:38,879 INFO com.report.currencyexchange.CurrencyExchangeApplication [restartedMain] Starting CurrencyExchangeApplication on LAPTOP-AJTV0JIH with PID 6044 (C:\deepa\ProjectDemo\Calibri\currency-exchange\build\classes\java\main started by jadha in C:\deepa\ProjectDemo\Calibri\currency-exchange)
+2019-10-19 01:18:38,883 INFO com.report.currencyexchange.CurrencyExchangeApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-10-19 01:18:42,686 INFO com.report.currencyexchange.CurrencyExchangeApplication [restartedMain] Started CurrencyExchangeApplication in 4.313 seconds (JVM running for 4.95)
+2019-10-19 01:18:52,798 ERROR com.report.currencyexchange.serviceImpl.FxRatesServiceImpl [http-nio-9900-exec-3] java.net.UnknownHostException: eodhistoricaldata.com
+2019-10-19 01:18:52,799 ERROR com.report.currencyexchange.scheduler.FxTaskScheduler [http-nio-9900-exec-3] Fx Details Cannot be fetched forUSD.FOREX
+2019-10-19 01:19:32,213 ERROR com.report.currencyexchange.serviceImpl.FxRatesServiceImpl [http-nio-9900-exec-7] java.net.UnknownHostException: eodhistoricaldata.com
+2019-10-19 01:19:32,214 ERROR com.report.currencyexchange.scheduler.FxTaskScheduler [http-nio-9900-exec-7] Fx Details Cannot be fetched forUSD.FOREX
+2019-10-19 01:19:50,751 INFO com.report.currencyexchange.serviceImpl.FxRatesServiceImpl [http-nio-9900-exec-2] response entity status200 OK
+2019-10-19 01:19:51,166 INFO com.report.currencyexchange.serviceImpl.FxRatesServiceImpl [http-nio-9900-exec-2] response entity status200 OK
+2019-10-19 01:19:51,539 INFO com.report.currencyexchange.serviceImpl.FxRatesServiceImpl [http-nio-9900-exec-2] response entity status200 OK
+2019-10-19 01:19:51,992 INFO com.report.currencyexchange.serviceImpl.FxRatesServiceImpl [http-nio-9900-exec-2] response entity status200 OK
+2019-10-19 01:19:52,377 INFO com.report.currencyexchange.serviceImpl.FxRatesServiceImpl [http-nio-9900-exec-2] response entity status200 OK
+2019-10-19 01:22:32,651 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Starting CurrencyExchangeApplicationTests on LAPTOP-AJTV0JIH with PID 15804 (started by jadha in C:\deepa\ProjectDemo\Calibri\currency-exchange)
+2019-10-19 01:22:32,655 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] No active profile set, falling back to default profiles: default
+2019-10-19 01:22:35,534 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Started CurrencyExchangeApplicationTests in 3.184 seconds (JVM running for 7.819)
+2019-10-19 01:36:43,986 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Starting CurrencyExchangeApplicationTests on LAPTOP-AJTV0JIH with PID 11120 (started by jadha in C:\deepa\ProjectDemo\Calibri\currency-exchange)
+2019-10-19 01:36:43,990 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] No active profile set, falling back to default profiles: default
+2019-10-19 01:36:47,297 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Started CurrencyExchangeApplicationTests in 3.643 seconds (JVM running for 8.398)
+2019-10-19 01:40:34,515 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Starting CurrencyExchangeApplicationTests on LAPTOP-AJTV0JIH with PID 16356 (started by jadha in C:\deepa\ProjectDemo\Calibri\currency-exchange)
+2019-10-19 01:40:34,518 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] No active profile set, falling back to default profiles: default
+2019-10-19 01:40:36,865 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Started CurrencyExchangeApplicationTests in 2.594 seconds (JVM running for 3.91)
+2019-10-19 01:41:40,333 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Starting CurrencyExchangeApplicationTests on LAPTOP-AJTV0JIH with PID 8920 (started by jadha in C:\deepa\ProjectDemo\Calibri\currency-exchange)
+2019-10-19 01:41:40,336 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] No active profile set, falling back to default profiles: default
+2019-10-19 01:41:43,350 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Started CurrencyExchangeApplicationTests in 3.252 seconds (JVM running for 4.61)
+2019-10-19 01:46:14,103 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Starting CurrencyExchangeApplicationTests on LAPTOP-AJTV0JIH with PID 7260 (started by jadha in C:\deepa\ProjectDemo\Calibri\currency-exchange)
+2019-10-19 01:46:14,106 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] No active profile set, falling back to default profiles: default
+2019-10-19 01:46:16,610 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Started CurrencyExchangeApplicationTests in 2.754 seconds (JVM running for 4.153)
+2019-10-19 01:47:04,804 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Starting CurrencyExchangeApplicationTests on LAPTOP-AJTV0JIH with PID 16276 (started by jadha in C:\deepa\ProjectDemo\Calibri\currency-exchange)
+2019-10-19 01:47:04,807 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] No active profile set, falling back to default profiles: default
+2019-10-19 01:47:07,556 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Started CurrencyExchangeApplicationTests in 3.071 seconds (JVM running for 4.354)
+2019-10-19 01:47:27,304 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Starting CurrencyExchangeApplicationTests on LAPTOP-AJTV0JIH with PID 7680 (started by jadha in C:\deepa\ProjectDemo\Calibri\currency-exchange)
+2019-10-19 01:47:27,306 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] No active profile set, falling back to default profiles: default
+2019-10-19 01:47:29,496 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Started CurrencyExchangeApplicationTests in 2.473 seconds (JVM running for 3.698)
+2019-10-19 02:38:21,866 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Starting CurrencyExchangeApplicationTests on LAPTOP-AJTV0JIH with PID 13824 (started by jadha in C:\deepa\ProjectDemo\Calibri\currency-exchange)
+2019-10-19 02:38:21,869 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] No active profile set, falling back to default profiles: default
+2019-10-19 02:38:23,906 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Started CurrencyExchangeApplicationTests in 2.309 seconds (JVM running for 3.647)
+2019-10-19 02:40:05,385 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Starting CurrencyExchangeApplicationTests on LAPTOP-AJTV0JIH with PID 13228 (started by jadha in C:\deepa\ProjectDemo\Calibri\currency-exchange)
+2019-10-19 02:40:05,388 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] No active profile set, falling back to default profiles: default
+2019-10-19 02:40:07,515 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Started CurrencyExchangeApplicationTests in 2.342 seconds (JVM running for 3.397)
+2019-10-19 02:40:44,646 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Starting CurrencyExchangeApplicationTests on LAPTOP-AJTV0JIH with PID 12968 (started by jadha in C:\deepa\ProjectDemo\Calibri\currency-exchange)
+2019-10-19 02:40:44,649 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] No active profile set, falling back to default profiles: default
+2019-10-19 02:40:46,787 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Started CurrencyExchangeApplicationTests in 2.343 seconds (JVM running for 3.478)
+2019-10-19 02:41:55,408 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Starting CurrencyExchangeApplicationTests on LAPTOP-AJTV0JIH with PID 10748 (started by jadha in C:\deepa\ProjectDemo\Calibri\currency-exchange)
+2019-10-19 02:41:55,410 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] No active profile set, falling back to default profiles: default
+2019-10-19 02:41:57,440 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Started CurrencyExchangeApplicationTests in 2.223 seconds (JVM running for 3.287)
+2019-10-19 02:42:36,115 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Starting CurrencyExchangeApplicationTests on LAPTOP-AJTV0JIH with PID 1588 (started by jadha in C:\deepa\ProjectDemo\Calibri\currency-exchange)
+2019-10-19 02:42:36,117 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] No active profile set, falling back to default profiles: default
+2019-10-19 02:42:37,923 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Started CurrencyExchangeApplicationTests in 1.986 seconds (JVM running for 3.039)
+2019-10-19 02:43:52,392 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Starting CurrencyExchangeApplicationTests on LAPTOP-AJTV0JIH with PID 13764 (started by jadha in C:\deepa\ProjectDemo\Calibri\currency-exchange)
+2019-10-19 02:43:52,395 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] No active profile set, falling back to default profiles: default
+2019-10-19 02:43:54,249 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Started CurrencyExchangeApplicationTests in 2.065 seconds (JVM running for 3.096)
+2019-10-19 02:45:34,207 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Starting CurrencyExchangeApplicationTests on LAPTOP-AJTV0JIH with PID 8520 (started by jadha in C:\deepa\ProjectDemo\Calibri\currency-exchange)
+2019-10-19 02:45:34,209 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] No active profile set, falling back to default profiles: default
+2019-10-19 02:45:36,156 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Started CurrencyExchangeApplicationTests in 2.131 seconds (JVM running for 3.202)
+2019-10-19 02:52:04,730 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Starting CurrencyExchangeApplicationTests on LAPTOP-AJTV0JIH with PID 16672 (started by jadha in C:\deepa\ProjectDemo\Calibri\currency-exchange)
+2019-10-19 02:52:04,732 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] No active profile set, falling back to default profiles: default
+2019-10-19 02:52:06,703 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Started CurrencyExchangeApplicationTests in 2.18 seconds (JVM running for 3.223)
+2019-10-19 02:55:48,966 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Starting CurrencyExchangeApplicationTests on LAPTOP-AJTV0JIH with PID 12420 (started by jadha in C:\deepa\ProjectDemo\Calibri\currency-exchange)
+2019-10-19 02:55:48,969 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] No active profile set, falling back to default profiles: default
+2019-10-19 02:55:51,278 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Started CurrencyExchangeApplicationTests in 2.527 seconds (JVM running for 3.712)
+2019-10-19 03:05:38,826 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Starting CurrencyExchangeApplicationTests on LAPTOP-AJTV0JIH with PID 14968 (started by jadha in C:\deepa\ProjectDemo\Calibri\currency-exchange)
+2019-10-19 03:05:38,829 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] No active profile set, falling back to default profiles: default
+2019-10-19 03:05:40,817 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Started CurrencyExchangeApplicationTests in 2.188 seconds (JVM running for 3.281)
+2019-10-19 03:06:48,430 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Starting CurrencyExchangeApplicationTests on LAPTOP-AJTV0JIH with PID 10000 (started by jadha in C:\deepa\ProjectDemo\Calibri\currency-exchange)
+2019-10-19 03:06:48,432 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] No active profile set, falling back to default profiles: default
+2019-10-19 03:06:50,360 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Started CurrencyExchangeApplicationTests in 2.128 seconds (JVM running for 3.298)
+2019-10-19 03:33:15,475 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Starting CurrencyExchangeApplicationTests on LAPTOP-AJTV0JIH with PID 1888 (started by jadha in C:\deepa\ProjectDemo\Calibri\currency-exchange)
+2019-10-19 03:33:15,477 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] No active profile set, falling back to default profiles: default
+2019-10-19 03:33:17,485 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Started CurrencyExchangeApplicationTests in 2.43 seconds (JVM running for 3.577)
+2019-10-19 04:08:21,977 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Starting CurrencyExchangeApplicationTests on LAPTOP-AJTV0JIH with PID 2780 (started by jadha in C:\deepa\ProjectDemo\Calibri\currency-exchange)
+2019-10-19 04:08:21,980 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] No active profile set, falling back to default profiles: default
+2019-10-19 04:08:24,347 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Started CurrencyExchangeApplicationTests in 2.606 seconds (JVM running for 3.706)
+2019-10-19 04:08:37,053 INFO com.report.currencyexchange.CurrencyExchangeApplication [restartedMain] Starting CurrencyExchangeApplication on LAPTOP-AJTV0JIH with PID 16864 (C:\deepa\ProjectDemo\Calibri\currency-exchange\build\classes\java\main started by jadha in C:\deepa\ProjectDemo\Calibri\currency-exchange)
+2019-10-19 04:08:37,055 INFO com.report.currencyexchange.CurrencyExchangeApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-10-19 04:08:39,276 INFO com.report.currencyexchange.CurrencyExchangeApplication [restartedMain] Started CurrencyExchangeApplication in 2.532 seconds (JVM running for 2.987)
+2019-10-19 04:09:26,662 INFO com.report.currencyexchange.serviceImpl.FxRatesServiceImpl [http-nio-9900-exec-1] response entity status200 OK
+2019-10-19 04:09:27,099 INFO com.report.currencyexchange.serviceImpl.FxRatesServiceImpl [http-nio-9900-exec-1] response entity status200 OK
+2019-10-19 04:09:27,550 INFO com.report.currencyexchange.serviceImpl.FxRatesServiceImpl [http-nio-9900-exec-1] response entity status200 OK
+2019-10-19 04:09:27,911 INFO com.report.currencyexchange.serviceImpl.FxRatesServiceImpl [http-nio-9900-exec-1] response entity status200 OK
+2019-10-19 04:09:28,350 INFO com.report.currencyexchange.serviceImpl.FxRatesServiceImpl [http-nio-9900-exec-1] response entity status200 OK
+2019-10-19 04:11:00,809 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Starting CurrencyExchangeApplicationTests on LAPTOP-AJTV0JIH with PID 8180 (started by jadha in C:\deepa\ProjectDemo\Calibri\currency-exchange)
+2019-10-19 04:11:00,812 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] No active profile set, falling back to default profiles: default
+2019-10-19 04:11:02,763 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Started CurrencyExchangeApplicationTests in 2.164 seconds (JVM running for 3.255)
+2019-10-19 04:11:28,532 INFO com.report.currencyexchange.CurrencyExchangeApplication [restartedMain] Starting CurrencyExchangeApplication on LAPTOP-AJTV0JIH with PID 6988 (C:\deepa\ProjectDemo\Calibri\currency-exchange\build\classes\java\main started by jadha in C:\deepa\ProjectDemo\Calibri\currency-exchange)
+2019-10-19 04:11:28,535 INFO com.report.currencyexchange.CurrencyExchangeApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-10-19 04:11:31,294 INFO com.report.currencyexchange.CurrencyExchangeApplication [restartedMain] Started CurrencyExchangeApplication in 3.085 seconds (JVM running for 3.55)
+2019-10-19 04:12:07,184 ERROR com.report.currencyexchange.scheduler.FxTaskScheduler [http-nio-9900-exec-1] Exception sending emailnull
+2019-10-19 04:30:10,838 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Starting CurrencyExchangeApplicationTests on LAPTOP-AJTV0JIH with PID 3504 (started by jadha in C:\deepa\ProjectDemo\Calibri\currency-exchange)
+2019-10-19 04:30:10,840 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] No active profile set, falling back to default profiles: default
+2019-10-19 04:30:13,241 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Started CurrencyExchangeApplicationTests in 2.624 seconds (JVM running for 3.835)
+2019-10-19 04:30:33,339 INFO com.report.currencyexchange.CurrencyExchangeApplication [restartedMain] Starting CurrencyExchangeApplication on LAPTOP-AJTV0JIH with PID 17236 (C:\deepa\ProjectDemo\Calibri\currency-exchange\build\classes\java\main started by jadha in C:\deepa\ProjectDemo\Calibri\currency-exchange)
+2019-10-19 04:30:33,342 INFO com.report.currencyexchange.CurrencyExchangeApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-10-19 04:30:36,404 INFO com.report.currencyexchange.CurrencyExchangeApplication [restartedMain] Started CurrencyExchangeApplication in 3.397 seconds (JVM running for 3.871)
+2019-10-19 04:30:51,300 ERROR com.report.currencyexchange.scheduler.FxTaskScheduler [http-nio-9900-exec-1] Exception sending emailnull
+2019-10-19 04:35:54,758 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Starting CurrencyExchangeApplicationTests on LAPTOP-AJTV0JIH with PID 9388 (started by jadha in C:\deepa\ProjectDemo\Calibri\currency-exchange)
+2019-10-19 04:35:54,761 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] No active profile set, falling back to default profiles: default
+2019-10-19 04:35:57,042 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Started CurrencyExchangeApplicationTests in 2.519 seconds (JVM running for 3.617)
+2019-10-19 04:36:10,800 INFO com.report.currencyexchange.CurrencyExchangeApplication [restartedMain] Starting CurrencyExchangeApplication on LAPTOP-AJTV0JIH with PID 8284 (C:\deepa\ProjectDemo\Calibri\currency-exchange\build\classes\java\main started by jadha in C:\deepa\ProjectDemo\Calibri\currency-exchange)
+2019-10-19 04:36:10,802 INFO com.report.currencyexchange.CurrencyExchangeApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-10-19 04:36:12,928 INFO com.report.currencyexchange.CurrencyExchangeApplication [restartedMain] Started CurrencyExchangeApplication in 2.431 seconds (JVM running for 2.901)
+2019-10-19 04:37:40,605 INFO com.report.currencyexchange.CurrencyExchangeApplication [restartedMain] Starting CurrencyExchangeApplication on LAPTOP-AJTV0JIH with PID 8284 (C:\deepa\ProjectDemo\Calibri\currency-exchange\build\classes\java\main started by jadha in C:\deepa\ProjectDemo\Calibri\currency-exchange)
+2019-10-19 04:37:40,606 INFO com.report.currencyexchange.CurrencyExchangeApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-10-19 04:37:41,735 INFO com.report.currencyexchange.CurrencyExchangeApplication [restartedMain] Started CurrencyExchangeApplication in 1.181 seconds (JVM running for 91.709)
+2019-10-19 04:37:44,797 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Starting CurrencyExchangeApplicationTests on LAPTOP-AJTV0JIH with PID 144 (started by jadha in C:\deepa\ProjectDemo\Calibri\currency-exchange)
+2019-10-19 04:37:44,800 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] No active profile set, falling back to default profiles: default
+2019-10-19 04:37:48,678 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Started CurrencyExchangeApplicationTests in 4.183 seconds (JVM running for 5.808)
+2019-10-19 04:37:58,755 INFO com.report.currencyexchange.CurrencyExchangeApplication [restartedMain] Starting CurrencyExchangeApplication on LAPTOP-AJTV0JIH with PID 2636 (C:\deepa\ProjectDemo\Calibri\currency-exchange\build\classes\java\main started by jadha in C:\deepa\ProjectDemo\Calibri\currency-exchange)
+2019-10-19 04:37:58,758 INFO com.report.currencyexchange.CurrencyExchangeApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-10-19 04:38:02,351 ERROR org.apache.catalina.util.LifecycleBase [restartedMain] Failed to start component [Connector[HTTP/1.1-9900]]
+org.apache.catalina.LifecycleException: Protocol handler start failed
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1008)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:227)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.addPreviouslyRemovedConnectors(TomcatWebServer.java:263)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start(TomcatWebServer.java:195)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.startWebServer(ServletWebServerApplicationContext.java:297)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.finishRefresh(ServletWebServerApplicationContext.java:163)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:552)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:141)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:744)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:391)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:312)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1215)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1204)
+	at com.report.currencyexchange.CurrencyExchangeApplication.main(CurrencyExchangeApplication.java:12)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Net.java:433)
+	at sun.nio.ch.Net.bind(Net.java:425)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:223)
+	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:74)
+	at org.apache.tomcat.util.net.NioEndpoint.initServerSocket(NioEndpoint.java:230)
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:213)
+	at org.apache.tomcat.util.net.AbstractEndpoint.bindWithCleanup(AbstractEndpoint.java:1124)
+	at org.apache.tomcat.util.net.AbstractEndpoint.start(AbstractEndpoint.java:1210)
+	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:585)
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1005)
+	... 19 common frames omitted
+2019-10-19 04:38:02,386 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [restartedMain] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+The Tomcat connector configured to listen on port 9900 failed to start. The port may already be in use or the connector may be misconfigured.
+
+Action:
+
+Verify the connector's configuration, identify and stop any process that's listening on port 9900, or configure this application to listen on another port.
+
+2019-10-19 04:38:05,368 ERROR com.report.currencyexchange.scheduler.FxTaskScheduler [http-nio-9900-exec-10] Exception sending emailnull
+2019-10-19 04:43:08,470 INFO com.report.currencyexchange.CurrencyExchangeApplication [restartedMain] Starting CurrencyExchangeApplication on LAPTOP-AJTV0JIH with PID 17124 (C:\deepa\ProjectDemo\Calibri\currency-exchange\build\classes\java\main started by jadha in C:\deepa\ProjectDemo\Calibri\currency-exchange)
+2019-10-19 04:43:08,473 INFO com.report.currencyexchange.CurrencyExchangeApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-10-19 04:43:11,771 INFO com.report.currencyexchange.CurrencyExchangeApplication [restartedMain] Started CurrencyExchangeApplication in 3.823 seconds (JVM running for 4.324)
+2019-10-19 04:43:20,774 ERROR com.report.currencyexchange.scheduler.FxTaskScheduler [http-nio-9900-exec-1] Exception sending emailnull
+2019-10-19 04:45:44,364 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Starting CurrencyExchangeApplicationTests on LAPTOP-AJTV0JIH with PID 16360 (started by jadha in C:\deepa\ProjectDemo\Calibri\currency-exchange)
+2019-10-19 04:45:44,367 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] No active profile set, falling back to default profiles: default
+2019-10-19 04:45:46,467 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Started CurrencyExchangeApplicationTests in 2.307 seconds (JVM running for 3.399)
+2019-10-19 04:45:51,139 INFO com.report.currencyexchange.CurrencyExchangeApplication [restartedMain] Starting CurrencyExchangeApplication on LAPTOP-AJTV0JIH with PID 16764 (C:\deepa\ProjectDemo\Calibri\currency-exchange\build\classes\java\main started by jadha in C:\deepa\ProjectDemo\Calibri\currency-exchange)
+2019-10-19 04:45:51,142 INFO com.report.currencyexchange.CurrencyExchangeApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-10-19 04:45:53,581 INFO com.report.currencyexchange.CurrencyExchangeApplication [restartedMain] Started CurrencyExchangeApplication in 2.745 seconds (JVM running for 3.226)
+2019-10-19 04:45:55,741 ERROR com.report.currencyexchange.serviceImpl.FxRatesServiceImpl [http-nio-9900-exec-1] 401 Unauthorized
+2019-10-19 04:45:55,745 ERROR com.report.currencyexchange.scheduler.FxTaskScheduler [http-nio-9900-exec-1] Exception sending email401 Unauthorized
+2019-10-19 04:47:43,581 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Starting CurrencyExchangeApplicationTests on LAPTOP-AJTV0JIH with PID 4024 (started by jadha in C:\deepa\ProjectDemo\Calibri\currency-exchange)
+2019-10-19 04:47:43,584 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] No active profile set, falling back to default profiles: default
+2019-10-19 04:47:45,564 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Started CurrencyExchangeApplicationTests in 2.169 seconds (JVM running for 3.238)
+2019-10-19 04:48:07,594 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Starting CurrencyExchangeApplicationTests on LAPTOP-AJTV0JIH with PID 10560 (started by jadha in C:\deepa\ProjectDemo\Calibri\currency-exchange)
+2019-10-19 04:48:07,596 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] No active profile set, falling back to default profiles: default
+2019-10-19 04:48:09,499 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Started CurrencyExchangeApplicationTests in 2.1 seconds (JVM running for 3.146)
+2019-10-19 04:48:20,858 INFO com.report.currencyexchange.CurrencyExchangeApplication [restartedMain] Starting CurrencyExchangeApplication on LAPTOP-AJTV0JIH with PID 10204 (C:\deepa\ProjectDemo\Calibri\currency-exchange\build\classes\java\main started by jadha in C:\deepa\ProjectDemo\Calibri\currency-exchange)
+2019-10-19 04:48:20,859 INFO com.report.currencyexchange.CurrencyExchangeApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-10-19 04:48:22,962 INFO com.report.currencyexchange.CurrencyExchangeApplication [restartedMain] Started CurrencyExchangeApplication in 2.392 seconds (JVM running for 2.843)
+2019-10-19 04:48:40,395 ERROR com.report.currencyexchange.serviceImpl.FxRatesServiceImpl [http-nio-9900-exec-1] 402 Payment Required
+2019-10-19 04:48:40,396 ERROR com.report.currencyexchange.scheduler.FxTaskScheduler [http-nio-9900-exec-1] Exception sending email402 Payment Required
+2019-10-19 10:22:03,462 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Starting CurrencyExchangeApplicationTests on LAPTOP-AJTV0JIH with PID 9808 (started by jadha in C:\deepa\ProjectDemo\Calibri\currency-exchange)
+2019-10-19 10:22:03,467 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] No active profile set, falling back to default profiles: default
+2019-10-19 10:22:06,118 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Started CurrencyExchangeApplicationTests in 2.966 seconds (JVM running for 4.825)
+2019-10-19 10:23:04,473 INFO com.report.currencyexchange.CurrencyExchangeApplication [restartedMain] Starting CurrencyExchangeApplication on LAPTOP-AJTV0JIH with PID 4624 (C:\deepa\ProjectDemo\Calibri\currency-exchange\build\classes\java\main started by jadha in C:\deepa\ProjectDemo\Calibri\currency-exchange)
+2019-10-19 10:23:04,476 INFO com.report.currencyexchange.CurrencyExchangeApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-10-19 10:23:09,115 INFO com.report.currencyexchange.CurrencyExchangeApplication [restartedMain] Started CurrencyExchangeApplication in 5.28 seconds (JVM running for 6.243)
+2019-10-19 10:23:11,665 ERROR com.report.currencyexchange.serviceImpl.FxRatesServiceImpl [http-nio-9900-exec-1] 402 Payment Required
+2019-10-19 10:23:11,667 ERROR com.report.currencyexchange.scheduler.FxTaskScheduler [http-nio-9900-exec-1] Exception sending email402 Payment Required
+2019-10-19 11:09:51,878 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Starting CurrencyExchangeApplicationTests on LAPTOP-AJTV0JIH with PID 2040 (started by jadha in C:\deepa\ProjectDemo\Calibri\currency-exchange)
+2019-10-19 11:09:51,881 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] No active profile set, falling back to default profiles: default
+2019-10-19 11:09:55,705 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Started CurrencyExchangeApplicationTests in 4.16 seconds (JVM running for 6.177)
+2019-10-19 11:11:22,618 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Starting CurrencyExchangeApplicationTests on LAPTOP-AJTV0JIH with PID 2708 (started by jadha in C:\deepa\ProjectDemo\Calibri\currency-exchange)
+2019-10-19 11:11:22,622 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] No active profile set, falling back to default profiles: default
+2019-10-19 11:11:25,453 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Started CurrencyExchangeApplicationTests in 3.081 seconds (JVM running for 4.419)
+2019-10-19 11:11:26,236 ERROR com.report.currencyexchange.serviceImpl.FxRatesServiceImpl [Test worker] URI is not absolute
+2019-10-19 11:11:26,248 ERROR com.report.currencyexchange.serviceImpl.FxRatesServiceImpl [Test worker] URI is not absolute
+2019-10-19 11:14:26,125 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Starting CurrencyExchangeApplicationTests on LAPTOP-AJTV0JIH with PID 10448 (started by jadha in C:\deepa\ProjectDemo\Calibri\currency-exchange)
+2019-10-19 11:14:26,128 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] No active profile set, falling back to default profiles: default
+2019-10-19 11:14:28,980 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Started CurrencyExchangeApplicationTests in 3.15 seconds (JVM running for 4.971)
+2019-10-19 11:15:01,215 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Starting CurrencyExchangeApplicationTests on LAPTOP-AJTV0JIH with PID 17168 (started by jadha in C:\deepa\ProjectDemo\Calibri\currency-exchange)
+2019-10-19 11:15:01,218 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] No active profile set, falling back to default profiles: default
+2019-10-19 11:15:05,064 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Started CurrencyExchangeApplicationTests in 4.1 seconds (JVM running for 5.593)
+2019-10-19 11:17:19,147 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Starting CurrencyExchangeApplicationTests on LAPTOP-AJTV0JIH with PID 8920 (started by jadha in C:\deepa\ProjectDemo\Calibri\currency-exchange)
+2019-10-19 11:17:19,150 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] No active profile set, falling back to default profiles: default
+2019-10-19 11:17:21,803 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Started CurrencyExchangeApplicationTests in 2.99 seconds (JVM running for 4.805)
+2019-10-19 11:18:35,596 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Starting CurrencyExchangeApplicationTests on LAPTOP-AJTV0JIH with PID 4880 (started by jadha in C:\deepa\ProjectDemo\Calibri\currency-exchange)
+2019-10-19 11:18:35,599 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] No active profile set, falling back to default profiles: default
+2019-10-19 11:18:38,424 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Started CurrencyExchangeApplicationTests in 3.138 seconds (JVM running for 4.585)
+2019-10-19 11:18:39,288 ERROR com.report.currencyexchange.serviceImpl.FxRatesServiceImpl [Test worker] URI is not absolute
+2019-10-19 11:18:39,296 ERROR com.report.currencyexchange.serviceImpl.FxRatesServiceImpl [Test worker] URI is not absolute
+2019-10-19 11:23:18,682 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Starting CurrencyExchangeApplicationTests on LAPTOP-AJTV0JIH with PID 7856 (started by jadha in C:\deepa\ProjectDemo\Calibri\currency-exchange)
+2019-10-19 11:23:18,685 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] No active profile set, falling back to default profiles: default
+2019-10-19 11:23:21,326 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Started CurrencyExchangeApplicationTests in 2.96 seconds (JVM running for 4.954)
+2019-10-19 11:25:04,977 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Starting CurrencyExchangeApplicationTests on LAPTOP-AJTV0JIH with PID 16692 (started by jadha in C:\deepa\ProjectDemo\Calibri\currency-exchange)
+2019-10-19 11:25:04,981 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] No active profile set, falling back to default profiles: default
+2019-10-19 11:25:07,434 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Started CurrencyExchangeApplicationTests in 2.79 seconds (JVM running for 4.151)
+2019-10-19 11:26:44,594 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Starting CurrencyExchangeApplicationTests on LAPTOP-AJTV0JIH with PID 9844 (started by jadha in C:\deepa\ProjectDemo\Calibri\currency-exchange)
+2019-10-19 11:26:44,598 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] No active profile set, falling back to default profiles: default
+2019-10-19 11:26:48,167 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Started CurrencyExchangeApplicationTests in 3.97 seconds (JVM running for 5.647)
+2019-10-19 11:26:49,007 ERROR com.report.currencyexchange.serviceImpl.FxRatesServiceImpl [Test worker] URI is not absolute
+2019-10-19 11:29:01,644 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Starting CurrencyExchangeApplicationTests on LAPTOP-AJTV0JIH with PID 4320 (started by jadha in C:\deepa\ProjectDemo\Calibri\currency-exchange)
+2019-10-19 11:29:01,648 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] No active profile set, falling back to default profiles: default
+2019-10-19 11:29:05,153 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Started CurrencyExchangeApplicationTests in 3.921 seconds (JVM running for 5.463)
+2019-10-19 11:34:14,476 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Starting CurrencyExchangeApplicationTests on LAPTOP-AJTV0JIH with PID 3524 (started by jadha in C:\deepa\ProjectDemo\Calibri\currency-exchange)
+2019-10-19 11:34:14,480 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] No active profile set, falling back to default profiles: default
+2019-10-19 11:34:17,994 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Started CurrencyExchangeApplicationTests in 3.882 seconds (JVM running for 5.608)
+2019-10-19 11:35:21,984 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Starting CurrencyExchangeApplicationTests on LAPTOP-AJTV0JIH with PID 1368 (started by jadha in C:\deepa\ProjectDemo\Calibri\currency-exchange)
+2019-10-19 11:35:21,987 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] No active profile set, falling back to default profiles: default
+2019-10-19 11:35:24,586 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Started CurrencyExchangeApplicationTests in 2.916 seconds (JVM running for 4.686)
+2019-10-19 11:38:32,297 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Starting CurrencyExchangeApplicationTests on LAPTOP-AJTV0JIH with PID 14348 (started by jadha in C:\deepa\ProjectDemo\Calibri\currency-exchange)
+2019-10-19 11:38:32,300 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] No active profile set, falling back to default profiles: default
+2019-10-19 11:38:35,166 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Started CurrencyExchangeApplicationTests in 3.184 seconds (JVM running for 4.674)
+2019-10-19 11:44:53,894 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Starting CurrencyExchangeApplicationTests on LAPTOP-AJTV0JIH with PID 14568 (started by jadha in C:\deepa\ProjectDemo\Calibri\currency-exchange)
+2019-10-19 11:44:53,898 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] No active profile set, falling back to default profiles: default
+2019-10-19 11:44:56,729 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Started CurrencyExchangeApplicationTests in 3.134 seconds (JVM running for 4.529)
+2019-10-19 11:45:07,094 INFO com.report.currencyexchange.CurrencyExchangeApplication [restartedMain] Starting CurrencyExchangeApplication on LAPTOP-AJTV0JIH with PID 13496 (C:\deepa\ProjectDemo\Calibri\currency-exchange\build\classes\java\main started by jadha in C:\deepa\ProjectDemo\Calibri\currency-exchange)
+2019-10-19 11:45:07,097 INFO com.report.currencyexchange.CurrencyExchangeApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-10-19 11:45:10,051 INFO com.report.currencyexchange.CurrencyExchangeApplication [restartedMain] Started CurrencyExchangeApplication in 3.422 seconds (JVM running for 4.036)
+2019-10-19 11:56:13,448 INFO com.report.currencyexchange.serviceImpl.FxRatesServiceImpl [http-nio-9900-exec-2] response entity status200 OK
+2019-10-19 11:56:13,905 INFO com.report.currencyexchange.serviceImpl.FxRatesServiceImpl [http-nio-9900-exec-2] response entity status200 OK
+2019-10-19 11:56:14,288 INFO com.report.currencyexchange.serviceImpl.FxRatesServiceImpl [http-nio-9900-exec-2] response entity status200 OK
+2019-10-19 11:56:14,818 INFO com.report.currencyexchange.serviceImpl.FxRatesServiceImpl [http-nio-9900-exec-2] response entity status200 OK
+2019-10-19 11:56:15,329 INFO com.report.currencyexchange.serviceImpl.FxRatesServiceImpl [http-nio-9900-exec-2] response entity status200 OK
+2019-10-19 12:00:02,166 INFO com.report.currencyexchange.serviceImpl.FxRatesServiceImpl [scheduling-1] response entity status200 OK
+2019-10-19 12:00:02,760 INFO com.report.currencyexchange.serviceImpl.FxRatesServiceImpl [scheduling-1] response entity status200 OK
+2019-10-19 12:00:03,374 INFO com.report.currencyexchange.serviceImpl.FxRatesServiceImpl [scheduling-1] response entity status200 OK
+2019-10-19 12:00:03,987 INFO com.report.currencyexchange.serviceImpl.FxRatesServiceImpl [scheduling-1] response entity status200 OK
+2019-10-19 12:00:04,703 INFO com.report.currencyexchange.serviceImpl.FxRatesServiceImpl [scheduling-1] response entity status200 OK
+2019-10-19 12:10:55,045 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Starting CurrencyExchangeApplicationTests on LAPTOP-AJTV0JIH with PID 16368 (started by jadha in C:\deepa\ProjectDemo\Calibri\currency-exchange)
+2019-10-19 12:10:55,069 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] No active profile set, falling back to default profiles: default
+2019-10-19 12:10:59,879 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Started CurrencyExchangeApplicationTests in 5.351 seconds (JVM running for 7.666)
+2019-10-19 12:11:20,115 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Starting CurrencyExchangeApplicationTests on LAPTOP-AJTV0JIH with PID 1124 (started by jadha in C:\deepa\ProjectDemo\Calibri\currency-exchange)
+2019-10-19 12:11:20,118 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] No active profile set, falling back to default profiles: default
+2019-10-19 12:11:23,186 INFO com.report.currencyexchange.CurrencyExchangeApplicationTests [Test worker] Started CurrencyExchangeApplicationTests in 3.342 seconds (JVM running for 4.701)
+2019-10-19 12:11:31,262 INFO com.report.currencyexchange.CurrencyExchangeApplication [restartedMain] Starting CurrencyExchangeApplication on LAPTOP-AJTV0JIH with PID 16084 (C:\deepa\ProjectDemo\Calibri\currency-exchange\build\classes\java\main started by jadha in C:\deepa\ProjectDemo\Calibri\currency-exchange)
+2019-10-19 12:11:31,265 INFO com.report.currencyexchange.CurrencyExchangeApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-10-19 12:11:34,237 INFO com.report.currencyexchange.CurrencyExchangeApplication [restartedMain] Started CurrencyExchangeApplication in 3.399 seconds (JVM running for 4.029)
+2019-10-19 12:12:15,872 INFO com.report.currencyexchange.serviceImpl.FxRatesServiceImpl [http-nio-9900-exec-1] response entity status200 OK
+2019-10-19 12:12:16,561 INFO com.report.currencyexchange.serviceImpl.FxRatesServiceImpl [http-nio-9900-exec-1] response entity status200 OK
+2019-10-19 12:12:17,055 INFO com.report.currencyexchange.serviceImpl.FxRatesServiceImpl [http-nio-9900-exec-1] response entity status200 OK
+2019-10-19 12:12:17,693 INFO com.report.currencyexchange.serviceImpl.FxRatesServiceImpl [http-nio-9900-exec-1] response entity status200 OK
+2019-10-19 12:12:18,295 INFO com.report.currencyexchange.serviceImpl.FxRatesServiceImpl [http-nio-9900-exec-1] response entity status200 OK
